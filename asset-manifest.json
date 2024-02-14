@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SuryaThanneru/react.git/static/css/main.e6c13ad2.css",
+    "main.js": "/SuryaThanneru/react.git/static/js/main.c6d29499.js",
+    "static/js/592.7b06a24f.chunk.js": "/SuryaThanneru/react.git/static/js/592.7b06a24f.chunk.js",
+    "index.html": "/SuryaThanneru/react.git/index.html",
+    "main.e6c13ad2.css.map": "/SuryaThanneru/react.git/static/css/main.e6c13ad2.css.map",
+    "main.c6d29499.js.map": "/SuryaThanneru/react.git/static/js/main.c6d29499.js.map",
+    "592.7b06a24f.chunk.js.map": "/SuryaThanneru/react.git/static/js/592.7b06a24f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.c6d29499.js"
+  ]
+}
